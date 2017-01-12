@@ -1,0 +1,23 @@
+locator type:
+  'id':By.ID,
+  'xpath': By.XPATH,
+  'linkText': By.LINK_TEXT,
+  'partialLinkText': By.LINK_TEXT,
+  'name': By.NAME,
+  'className': By.CLASS_NAME,
+  'context-desc': By.ACCESSIBILITY_ID,
+  'android': By.ANDROID_UIAUTOMATOR,
+  'ios':By.IOS_UIAUTOMATION,
+  'cssSelector': By.CSS_SELECTOR
+
+
+attribute:
+  is_displayed
+  is_enabled
+  is_selected
+  
+ operator:
+ if
+ else
+ elif
+ ...

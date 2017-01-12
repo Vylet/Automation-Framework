@@ -1,0 +1,63 @@
+2016-12-16 11:21:23,095 - {logger} - line[44] - INFO :Logger set up...
+2016-12-16 11:21:23,734 - {caseObject} - line[34] - DEBUG :Number of lines: 8
+2016-12-16 11:21:23,734 - {caseObject} - line[40] - INFO :Line 1: connect mobile&launch app
+2016-12-16 11:21:23,737 - {caseObject} - line[59] - DEBUG :
+2016-12-16 11:21:23,737 - {caseObject} - line[64] - DEBUG :2
+2016-12-16 11:21:23,737 - {caseObject} - line[68] - DEBUG :3
+2016-12-16 11:21:23,737 - {caseObject} - line[178] - ERROR :Line 1=> openApp: 'caseObject' object has no attribute '_Base__zooom'
+2016-12-16 11:21:23,739 - {caseObject} - line[40] - INFO :Line 2: click 7
+2016-12-16 11:21:23,739 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,739 - {pageObject} - line[56] - DEBUG :n7
+2016-12-16 11:21:23,755 - {pageObject} - line[61] - DEBUG :locator ID: n7,locator Info: 7, type: name
+2016-12-16 11:21:23,755 - {caseObject} - line[178] - ERROR :Line 2=> click: 'caseObject' object has no attribute '_Base__zooom'
+2016-12-16 11:21:23,755 - {caseObject} - line[40] - INFO :Line 3: click -
+2016-12-16 11:21:23,755 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,756 - {pageObject} - line[56] - DEBUG :minus
+2016-12-16 11:21:23,770 - {pageObject} - line[61] - DEBUG :locator ID: minus,locator Info: minus, type: context-desc
+2016-12-16 11:21:23,770 - {caseObject} - line[178] - ERROR :Line 3=> click: 'caseObject' object has no attribute '_Base__zooom'
+2016-12-16 11:21:23,770 - {caseObject} - line[40] - INFO :Line 4: if condition
+2016-12-16 11:21:23,772 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,772 - {pageObject} - line[56] - DEBUG :n6
+2016-12-16 11:21:23,786 - {pageObject} - line[61] - DEBUG :locator ID: n6,locator Info: 6, type: name
+2016-12-16 11:21:23,786 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:21:23,786 - {base} - line[37] - DEBUG :name
+2016-12-16 11:21:23,786 - {base} - line[38] - DEBUG :6
+2016-12-16 11:21:23,786 - {base} - line[471] - ERROR :__name: Not get the element "6" detail: "'caseObject' object has no attribute 'driver'"
+2016-12-16 11:21:23,786 - {base} - line[562] - ERROR :__verify_true: 'bool' object has no attribute 'is_displayed'
+2016-12-16 11:21:23,786 - {caseObject} - line[126] - DEBUG :None
+2016-12-16 11:21:23,786 - {caseObject} - line[40] - INFO :Line 5: click 6
+2016-12-16 11:21:23,786 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,786 - {pageObject} - line[56] - DEBUG :n6
+2016-12-16 11:21:23,802 - {pageObject} - line[61] - DEBUG :locator ID: n6,locator Info: 6, type: name
+2016-12-16 11:21:23,802 - {caseObject} - line[178] - ERROR :Line 5=> click: 'caseObject' object has no attribute '_Base__zooom'
+2016-12-16 11:21:23,802 - {caseObject} - line[40] - INFO :Line 6: click =
+2016-12-16 11:21:23,802 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,802 - {pageObject} - line[56] - DEBUG :op=
+2016-12-16 11:21:23,819 - {pageObject} - line[61] - DEBUG :locator ID: op=,locator Info: =, type: name
+2016-12-16 11:21:23,819 - {caseObject} - line[178] - ERROR :Line 6=> click: 'caseObject' object has no attribute '_Base__zooom'
+2016-12-16 11:21:23,819 - {caseObject} - line[40] - INFO :Line 7: expect to be "1"
+2016-12-16 11:21:23,819 - {caseObject} - line[150] - DEBUG :entering verify...
+2016-12-16 11:21:23,819 - {caseObject} - line[155] - DEBUG :[u'result', u'Android']
+2016-12-16 11:21:23,819 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,819 - {pageObject} - line[56] - DEBUG :result
+2016-12-16 11:21:23,841 - {pageObject} - line[61] - DEBUG :locator ID: result,locator Info: android.widget.EditText, type: className
+2016-12-16 11:21:23,841 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:21:23,842 - {base} - line[37] - DEBUG :class name
+2016-12-16 11:21:23,842 - {base} - line[38] - DEBUG :android.widget.EditText
+2016-12-16 11:21:23,842 - {base} - line[488] - ERROR :__className: Not get the element "android.widget.EditText" detail: "'caseObject' object has no attribute 'driver'"
+2016-12-16 11:21:23,842 - {base} - line[608] - ERROR :__verify_equal: 'bool' object has no attribute 'is_displayed'
+2016-12-16 11:21:23,842 - {caseObject} - line[158] - DEBUG :None
+2016-12-16 11:21:23,842 - {caseObject} - line[184] - INFO :RESULT: 7 verify_equal ====>FAIL 
+2016-12-16 11:21:23,842 - {caseObject} - line[40] - INFO :Line 8: verify element is displayed
+2016-12-16 11:21:23,844 - {caseObject} - line[150] - DEBUG :entering verify...
+2016-12-16 11:21:23,844 - {caseObject} - line[155] - DEBUG :[u'n7', u'Android']
+2016-12-16 11:21:23,844 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:21:23,844 - {pageObject} - line[56] - DEBUG :n7
+2016-12-16 11:21:23,867 - {pageObject} - line[61] - DEBUG :locator ID: n7,locator Info: 7, type: name
+2016-12-16 11:21:23,868 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:21:23,868 - {base} - line[37] - DEBUG :name
+2016-12-16 11:21:23,868 - {base} - line[38] - DEBUG :7
+2016-12-16 11:21:23,868 - {base} - line[471] - ERROR :__name: Not get the element "7" detail: "'caseObject' object has no attribute 'driver'"
+2016-12-16 11:21:23,868 - {base} - line[562] - ERROR :__verify_true: 'bool' object has no attribute 'is_displayed'
+2016-12-16 11:21:23,868 - {caseObject} - line[158] - DEBUG :None
+2016-12-16 11:21:23,868 - {caseObject} - line[184] - INFO :RESULT: 8 verify_true ====>FAIL 

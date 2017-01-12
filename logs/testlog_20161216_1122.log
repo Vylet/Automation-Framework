@@ -1,0 +1,93 @@
+2016-12-16 11:22:07,608 - {logger} - line[44] - INFO :Logger set up...
+2016-12-16 11:22:08,226 - {caseObject} - line[34] - DEBUG :Number of lines: 8
+2016-12-16 11:22:08,226 - {caseObject} - line[40] - INFO :Line 1: connect mobile&launch app
+2016-12-16 11:22:08,229 - {caseObject} - line[59] - DEBUG :
+2016-12-16 11:22:08,229 - {caseObject} - line[64] - DEBUG :2
+2016-12-16 11:22:08,229 - {caseObject} - line[68] - DEBUG :3
+2016-12-16 11:22:08,230 - {base} - line[263] - DEBUG :4
+2016-12-16 11:22:51,131 - {base} - line[265] - DEBUG :5
+2016-12-16 11:22:51,463 - {caseObject} - line[40] - INFO :Line 2: click 7
+2016-12-16 11:22:51,463 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:22:51,463 - {pageObject} - line[56] - DEBUG :n7
+2016-12-16 11:22:51,855 - {pageObject} - line[61] - DEBUG :locator ID: n7,locator Info: 7, type: name
+2016-12-16 11:22:51,855 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:22:51,855 - {base} - line[37] - DEBUG :name
+2016-12-16 11:22:51,855 - {base} - line[38] - DEBUG :7
+2016-12-16 11:22:58,660 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:22:58,661 - {base} - line[37] - DEBUG :name
+2016-12-16 11:22:58,661 - {base} - line[38] - DEBUG :7
+2016-12-16 11:23:03,530 - {caseObject} - line[40] - INFO :Line 3: click -
+2016-12-16 11:23:03,530 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:23:03,530 - {pageObject} - line[56] - DEBUG :minus
+2016-12-16 11:23:03,948 - {pageObject} - line[61] - DEBUG :locator ID: minus,locator Info: minus, type: context-desc
+2016-12-16 11:23:03,948 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:03,948 - {base} - line[37] - DEBUG :accessibility id
+2016-12-16 11:23:03,948 - {base} - line[38] - DEBUG :minus
+2016-12-16 11:23:05,592 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:05,592 - {base} - line[37] - DEBUG :accessibility id
+2016-12-16 11:23:05,592 - {base} - line[38] - DEBUG :minus
+2016-12-16 11:23:07,903 - {caseObject} - line[40] - INFO :Line 4: if condition
+2016-12-16 11:23:07,904 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:23:07,904 - {pageObject} - line[56] - DEBUG :n6
+2016-12-16 11:23:08,322 - {pageObject} - line[61] - DEBUG :locator ID: n6,locator Info: 6, type: name
+2016-12-16 11:23:08,322 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:08,322 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:08,322 - {base} - line[38] - DEBUG :6
+2016-12-16 11:23:10,569 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:10,571 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:10,571 - {base} - line[38] - DEBUG :6
+2016-12-16 11:23:11,808 - {caseObject} - line[126] - DEBUG :True
+2016-12-16 11:23:11,809 - {caseObject} - line[128] - DEBUG :Execute cases in sheet "trueCase1"
+2016-12-16 11:23:12,345 - {caseObject} - line[34] - DEBUG :Number of lines: 1
+2016-12-16 11:23:12,345 - {caseObject} - line[38] - INFO :Line 4.1: click 6
+2016-12-16 11:23:12,345 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:23:12,345 - {pageObject} - line[56] - DEBUG :n6
+2016-12-16 11:23:12,721 - {pageObject} - line[61] - DEBUG :locator ID: n6,locator Info: 6, type: name
+2016-12-16 11:23:12,721 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:12,721 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:12,721 - {base} - line[38] - DEBUG :6
+2016-12-16 11:23:13,743 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:13,744 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:13,744 - {base} - line[38] - DEBUG :6
+2016-12-16 11:23:15,819 - {caseObject} - line[131] - DEBUG :2
+2016-12-16 11:23:15,819 - {caseObject} - line[133] - DEBUG :assign new line number to i
+2016-12-16 11:23:15,819 - {caseObject} - line[40] - INFO :Line 6: click =
+2016-12-16 11:23:15,821 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:23:15,821 - {pageObject} - line[56] - DEBUG :op=
+2016-12-16 11:23:15,911 - {pageObject} - line[61] - DEBUG :locator ID: op=,locator Info: =, type: name
+2016-12-16 11:23:15,913 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:15,913 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:15,913 - {base} - line[38] - DEBUG :=
+2016-12-16 11:23:17,155 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:17,157 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:17,157 - {base} - line[38] - DEBUG :=
+2016-12-16 11:23:19,226 - {caseObject} - line[40] - INFO :Line 7: expect to be "1"
+2016-12-16 11:23:19,226 - {caseObject} - line[150] - DEBUG :entering verify...
+2016-12-16 11:23:19,226 - {caseObject} - line[155] - DEBUG :[u'result', u'Android']
+2016-12-16 11:23:19,226 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:23:19,227 - {pageObject} - line[56] - DEBUG :result
+2016-12-16 11:23:19,713 - {pageObject} - line[61] - DEBUG :locator ID: result,locator Info: android.widget.EditText, type: className
+2016-12-16 11:23:19,713 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:19,713 - {base} - line[37] - DEBUG :class name
+2016-12-16 11:23:19,713 - {base} - line[38] - DEBUG :android.widget.EditText
+2016-12-16 11:23:20,865 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:20,867 - {base} - line[37] - DEBUG :class name
+2016-12-16 11:23:20,867 - {base} - line[38] - DEBUG :android.widget.EditText
+2016-12-16 11:23:22,072 - {base} - line[598] - INFO :Actual: "1" type: "<type 'unicode'>"
+2016-12-16 11:23:22,072 - {base} - line[599] - INFO :Expect: "1" type: "<type 'unicode'>"
+2016-12-16 11:23:22,072 - {caseObject} - line[158] - DEBUG :True
+2016-12-16 11:23:22,072 - {caseObject} - line[181] - INFO :RESULT: 7 verify_equal ====>PASS 
+2016-12-16 11:23:22,072 - {caseObject} - line[40] - INFO :Line 8: verify element is displayed
+2016-12-16 11:23:22,073 - {caseObject} - line[150] - DEBUG :entering verify...
+2016-12-16 11:23:22,073 - {caseObject} - line[155] - DEBUG :[u'n7', u'Android']
+2016-12-16 11:23:22,073 - {pageObject} - line[55] - DEBUG :Android
+2016-12-16 11:23:22,073 - {pageObject} - line[56] - DEBUG :n7
+2016-12-16 11:23:22,476 - {pageObject} - line[61] - DEBUG :locator ID: n7,locator Info: 7, type: name
+2016-12-16 11:23:22,476 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:22,476 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:22,476 - {base} - line[38] - DEBUG :7
+2016-12-16 11:23:23,713 - {base} - line[34] - DEBUG :function get_element
+2016-12-16 11:23:23,713 - {base} - line[37] - DEBUG :name
+2016-12-16 11:23:23,713 - {base} - line[38] - DEBUG :7
+2016-12-16 11:23:24,914 - {caseObject} - line[158] - DEBUG :True
+2016-12-16 11:23:24,914 - {caseObject} - line[181] - INFO :RESULT: 8 verify_true ====>PASS 

@@ -1,0 +1,7 @@
+2016-12-20 11:09:44,778 - {logger} - line[44] - INFO :Logger set up...
+2016-12-20 11:09:45,369 - {caseObject} - line[34] - DEBUG :Number of lines: 8
+2016-12-20 11:09:45,369 - {caseObject} - line[40] - INFO :Line 1: connect mobile&launch app
+2016-12-20 11:09:45,372 - {caseObject} - line[59] - DEBUG :
+2016-12-20 11:09:45,372 - {caseObject} - line[64] - DEBUG :2
+2016-12-20 11:09:45,372 - {caseObject} - line[68] - DEBUG :3
+2016-12-20 11:09:45,374 - {base} - line[263] - DEBUG :4
